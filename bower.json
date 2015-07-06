@@ -1,0 +1,25 @@
+{
+  "name": "local-chat",
+  "version": "0.0.0",
+  "authors": [
+    "VDLucifer <lucifer.pk@gmail.com>"
+  ],
+  "description": "sails js chat",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.1",
+    "angular-route": "~1.4.1",
+    "angular-resource": "~1.4.1"
+  }
+}
